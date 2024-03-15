@@ -20,9 +20,24 @@
 
 **Summary:** Treasure Hunters mobile game introduces in-game purchases for unlocking content and hints, potentially creating a pay-to-win scenario.
 
+**Is the company breaking any laws with their proposal?**
+- No, as long as the in-game purchases comply with regulations regarding microtransactions and gaming monetisation.
+
+**What are the ethical concerns with the company's proposal?**
+- Introducing in-game purchases for an advantage could create a pay-to-win environment, where players who can afford to spend more money have an advantage over those who cannot.
+- Transitioning from daily free content updates to a model where players must spend real money to access new content may alienate casual players who enjoyed the game's accessibility.
+- There could be concerns about addiction and spending behavior, especially among younger players who may not fully understand the implications of in-game purchases.
+
+**What could the company do to address these issues?**
+- Balance the strategy to ensure that in-game purchases do not compromise the enjoyment of the game for non-paying players.
+- Implement solutions to limit excessive spending, such as spending caps or parental controls.
+- Consider alternative monetization methods that do not create a pay-to-win environment, such as cosmetic upgrades.
+
 ---
 
 ## Scenario 3: Premium Membership for friends.com Matchmaking Service
 
 **Summary:** friends.com plans to introduce premium memberships with enhanced features, offering occasional trial periods to free users followed by targeted advertisements based on their location.
+
+
 
