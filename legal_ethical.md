@@ -39,5 +39,17 @@
 
 **Summary:** friends.com plans to introduce premium memberships with enhanced features, offering occasional trial periods to free users followed by targeted advertisements based on their location.
 
+**Is the company breaking any laws with their proposal?**
+- Yes & No. It depends on the regulations regarding data privacy and advertising. Sharing user location data for targeted advertising may require consent under certain laws. However, introducing a premium membership feature including enhanced features is completely acceptable.
 
+**What are the ethical concerns with the company's proposal?**
+- Limiting features for free users and introducing a paywall may restrict access to the service for individuals who cannot afford the premium membership.
+- The use of trial periods followed by targeted advertisements to persuade users to subscribe to the premium service could be seen as manipulative.
+- Sharing user location data without clear consent raises privacy concerns, especially if it is used for targeted advertising without users' knowledge and consent.
 
+**What could the company do to address these issues?**
+- Provide clear information about the differences between free and premium memberships.
+- Offer alternative ways for users to access premium features, such as earning credits through engagement with the platform.
+- Obtain consent from users before collecting or sharing their location data and provide options for users to opt out of targeted advertising.
+
+---
